@@ -1,4 +1,4 @@
-# Hello World program in Pyth
+
 
 from array import array
 
